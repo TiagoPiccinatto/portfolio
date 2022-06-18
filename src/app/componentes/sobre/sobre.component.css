@@ -25,3 +25,22 @@ h1{
 .bcv{
   background-color: rgb(71, 32, 168);
 }
+
+.firstname{
+ display: flex;
+ flex-direction: column;
+}
+.ocupation{
+  color: rgb(238, 238, 238);
+  font-size: calc(1em + 2vw);
+}
+
+.ocupation2{
+  color: rgb(255, 255, 255);
+  font-size: calc(1em + 4vw);
+}
+.posicao{
+position: relative;
+top: calc(1em + 34vw);
+left: calc(1em + 4vw);
+}
