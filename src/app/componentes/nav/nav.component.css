@@ -1,0 +1,29 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+
+.navbar-brand{
+  color: white;
+  font-size: 30px;
+}
+
+.nav-link{
+  padding-bottom: 3px;
+  color: white;
+  font-family: helvetica;
+  font-size: 1.2rem;
+
+}
+
+.nav-link:hover{
+ color: gray;
+}
+
+.bi{
+  font-size: 26px
+}
+
+.ini:hover{
+  color: gray;
+}
+
+
